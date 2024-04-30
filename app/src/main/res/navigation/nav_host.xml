@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.example.petfinde.ui.home.HomeFragment"
+        android:name="com.example.fakestore.ui.home.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
@@ -20,7 +20,7 @@
     </fragment>
     <fragment
         android:id="@+id/singleProductFragment"
-        android:name="com.example.petfinde.ui.singleProduct.SingleProductFragment"
+        android:name="com.example.fakestore.ui.singleProduct.SingleProductFragment"
         android:label="fragment_single_product"
         tools:layout="@layout/fragment_single_product" />
 </navigation>

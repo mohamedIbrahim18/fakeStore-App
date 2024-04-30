@@ -1,4 +1,4 @@
-package com.example.petfinde
+package com.example.fakestore
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

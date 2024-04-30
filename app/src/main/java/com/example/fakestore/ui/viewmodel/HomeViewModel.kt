@@ -1,4 +1,4 @@
-package com.example.petfinde.ui.viewmodel
+package com.example.fakestore.ui.viewmodel
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData

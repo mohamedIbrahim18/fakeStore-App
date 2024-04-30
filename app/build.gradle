@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.petfinde'
+    namespace 'com.example.fakestore'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.petfinde"
+        applicationId "com.example.fakestore"
         minSdk 24
         targetSdk 34
         versionCode 1

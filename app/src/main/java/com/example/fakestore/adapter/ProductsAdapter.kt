@@ -1,11 +1,11 @@
-package com.example.petfinde.adapter
+package com.example.fakestore.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.domain.model.products.Products
-import com.example.petfinde.databinding.ItemProductsBinding
+import com.example.fakestore.databinding.ItemProductsBinding
 
 class ProductsAdapter (var listOfProducts:List<Products?>?): RecyclerView.Adapter<ProductsAdapter.ViewHolder>() {
 

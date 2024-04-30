@@ -1,18 +1,15 @@
-package com.example.petfinde.ui.singleProduct
+package com.example.fakestore.ui.singleProduct
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.fragment.app.viewModels
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
 import com.example.domain.model.products.Products
-import com.example.petfinde.R
-import com.example.petfinde.databinding.FragmentSingleProductBinding
-import com.example.petfinde.ui.viewmodel.HomeViewModel
-import com.example.petfinde.ui.viewmodel.SingleProductViewModel
+import com.example.fakestore.databinding.FragmentSingleProductBinding
+import com.example.fakestore.ui.viewmodel.SingleProductViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

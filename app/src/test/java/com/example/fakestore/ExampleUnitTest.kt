@@ -1,4 +1,4 @@
-package com.example.petfinde
+package com.example.fakestore
 
 import org.junit.Test
 

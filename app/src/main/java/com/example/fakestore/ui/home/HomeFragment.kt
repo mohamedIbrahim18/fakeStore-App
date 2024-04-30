@@ -1,4 +1,4 @@
-package com.example.petfinde.ui.home
+package com.example.fakestore.ui.home
 
 import android.os.Bundle
 import android.util.Log
@@ -9,10 +9,10 @@ import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import com.example.domain.model.products.Products
-import com.example.petfinde.R
-import com.example.petfinde.adapter.ProductsAdapter
-import com.example.petfinde.databinding.FragmentHomeBinding
-import com.example.petfinde.ui.viewmodel.HomeViewModel
+import com.example.fakestore.R
+import com.example.fakestore.adapter.ProductsAdapter
+import com.example.fakestore.databinding.FragmentHomeBinding
+import com.example.fakestore.ui.viewmodel.HomeViewModel
 import com.google.android.material.tabs.TabLayout
 import dagger.hilt.android.AndroidEntryPoint
 

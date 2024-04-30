@@ -1,13 +1,8 @@
-package com.example.petfinde.ui
+package com.example.fakestore.ui
 
 import android.os.Bundle
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import androidx.navigation.NavController
-import androidx.navigation.NavHost
-import androidx.navigation.findNavController
-import com.example.petfinde.R
-import com.example.petfinde.databinding.ActivityMainBinding
+import com.example.fakestore.databinding.ActivityMainBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
